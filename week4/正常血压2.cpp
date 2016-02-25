@@ -36,11 +36,11 @@ int main()
 	*/
 	
 	
-	printf ("%d", max_times);
-	/* output the longest continuous
-	   blood pressure normal hours;
-	*/
+        printf ("%d", max_times);
+        /* output the longest continuous
+           blood pressure normal hours;
+        */
 	
 	
-    return 0;
+       return 0;
 }
