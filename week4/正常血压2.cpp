@@ -29,10 +29,10 @@ int main()
 		}	
 	}
 	/*
-		The input of each measurement of
-		systolic and diastolic blood pressure 
+	  The input of each measurement of
+	  systolic and diastolic blood pressure 
 	  and calculate the longest continuous
-		blood pressure normal hours;
+	  blood pressure normal hours;
 	*/
 	
 	
